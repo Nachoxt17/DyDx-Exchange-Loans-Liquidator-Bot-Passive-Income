@@ -22,7 +22,7 @@
 
 Bot to automatically liquidate undercollateralized and expired dYdX accounts. Explanation of Functioning;_ https://medium.com/dragonfly-research/liquidators-the-secret-whales-helping-defi-function-acf132fbea5e
 +-Tutorial:_ https://youtu.be/sDNTnc3pUUA
-+-DEVELOPMENT PAUSED:_ Needed at least USD$10 in an International Debit Card to create an DigitalOcean account and + or - USDT/DAI/USDC$500 of Initial Investment to putting the bot to Work.
++-TO START USING IT:_ Needed at least USD$10 in an International Debit Card to create an DigitalOcean account and at least USDT/DAI/USDC$500 of Initial Investment to putting the bot to Work.
 
 ## Usage
 
